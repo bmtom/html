@@ -1,1 +1,3 @@
-# html
+-Im trying to create a simple website for my project
+-I've downloeaded a w3schools template and I will change few things around to make it my own
+-I plan to have a small business profile on the index, a contact us, and a map function
